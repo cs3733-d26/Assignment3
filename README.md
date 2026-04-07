@@ -4,9 +4,9 @@ to be done in the same teams of two as in the previous assignments.
 
 ### Enter both of your names below. If we cannot figure out who did the assignment, we cannot grade it!
 
-### Name:  
+### Name:  Sam Rodrigues
   
-### Name:
+### Name: Shriya Kulkarni
 
 ## Assignment Details
 * Use Webstorm to clone this repository on your computer.
