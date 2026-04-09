@@ -18,7 +18,7 @@ to be done in the same teams of two as in the previous assignments.
   submitted.
 
 In this assignment, you will create a simple full-stack web application using React and Express.  
-A client folder and a server folder have been created for you. In the client folder, 
+You will create a client folder and a server folder, both at the top level of your project. In the client folder, 
 create the default starter Vite React.js project in Webstorm with Typescript enabled:  
 Webstorm -> New Project -> Vite -> Template: react -> check Use TypeScript Template
 
